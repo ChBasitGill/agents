@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "angular-frontend-toolkit",
+  "version": "0.1.0",
+  "description": "Angular frontend skill and GitHub Copilot agent for implementing and reviewing accessible, maintainable Angular applications.",
+  "author": {
+    "name": "basit jamil",
+    "url": "https://github.com/ChBasitGill"
+  },
+  "repository": "https://github.com/ChBasitGill/agents",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "frontend",
+    "accessibility",
+    "github-copilot",
+    "agent-skill"
+  ]
+}
